@@ -2015,7 +2015,7 @@
                 <button class="quick-question-btn">Jam Buka</button>
                 <button class="quick-question-btn">Lokasi</button>
                 <button class="quick-question-btn">Harga</button>
-                <button class="quick-question-btn">Reservasi</button>
+                <button class="quick-question-btn">Reservassi</button>
                 <button class="quick-question-btn">Kontak</button>
                 <button class="quick-question-btn">Paket</button>
                 <button class="quick-question-btn">Layanan</button>
