@@ -1371,7 +1371,7 @@
         <section id="kamar" class="services">
             <div class="container">
                 <div class="section-title" data-aos="fade-up">
-                    <h2>Fasilitas Kontolll puki</h2>
+                    <h2>Fasilitas Kontolllllll puki</h2>
                     <p><strong>Terdiri dari beberapa jenis fasilitas kamar berdasarkan jumlah tempat tidur :</strong>
                     </p>
                 </div>
